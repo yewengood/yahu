@@ -33,7 +33,7 @@ time=$(date +%Y%m%d%H%M%S) # 定义 time 变量
 while IFS= read -r line; do
     i=$((i + 1))
     ip="$line"
-    url="http://$ip/udp/239.10.0.62:1025"
+    url="http://$ip/udp/239.20.0.64:3144"
     echo "$url"
     curl "$url" --connect-timeout 3 --max-time 10 -o /dev/null >zubo.tmp 2>&1
     a=$(head -n 3 zubo.tmp | awk '{print $NF}' | tail -n 1)
