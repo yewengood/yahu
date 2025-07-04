@@ -1,9 +1,5 @@
-1081k  14.149.140.23:16888
-1073k  dsl1.oni2023.uk:8888
-1073k  61.145.188.90:50005
-1026k  14.149.140.191:16888
-401k  file.cyruslee.top:8888
-391k  plex.cyruslee.top:8888
-352k  dsm.cyruslee.top:8888
-248k  ddns.cyruslee.top:8888
-185k  ikuai.cyruslee.top:8888
+1074k  14.149.140.191:16888
+730k  dsl1.oni2023.uk:8888
+691k  61.145.188.90:50005
+216k  openwrt.cyruslee.top:8888
+186k  file.cyruslee.top:8888
