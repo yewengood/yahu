@@ -1,9 +1,5 @@
-1083k  openwrt.cyruslee.top:8888
-1074k  dsl1.oni2023.uk:8888
-1074k  14.149.140.23:16888
-1073k  unraid.cyruslee.top:8888
-1073k  ikuai.cyruslee.top:8888
-1073k  file.cyruslee.top:8888
-1073k  ddns.cyruslee.top:8888
-1060k  dsm.cyruslee.top:8888
-397k  61.145.188.90:50005
+1081k  61.145.188.90:50005
+1059k  14.149.140.191:16888
+1037k  14.149.140.23:16888
+750k  dsl1.oni2023.uk:8888
+0  ikuai.cyruslee.top:8888
