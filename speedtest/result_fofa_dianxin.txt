@@ -1,10 +1,7 @@
-1058k  61.145.188.90:50005
-1008k  14.149.140.199:16888
-995k  14.149.140.253:16888
-205k  ddns.cyruslee.top:8888
-196k  jellyfin.cyruslee.top:8888
-168k  unraid.cyruslee.top:8888
-125k  plex.cyruslee.top:8888
-115k  dsm.cyruslee.top:8888
-101k  file.cyruslee.top:8888
+1081k  61.145.188.90:50005
+1076k  14.149.140.199:16888
+1073k  14.149.140.253:16888
+454k  file.cyruslee.top:8888
+235k  jellyfin.cyruslee.top:8888
+202k  unraid.cyruslee.top:8888
 0  dsl1.oni2023.uk:8888
