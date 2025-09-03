@@ -1,10 +1,6 @@
-1074k  home.l-ht.cn:4000
-1020k  113.101.245.202:9988
-947k  plex.cyruslee.top:8888
-925k  jellyfin.cyruslee.top:8888
-913k  file.cyruslee.top:8888
-909k  unraid.cyruslee.top:8888
-907k  openwrt.cyruslee.top:8888
-891k  dsm.cyruslee.top:8888
-888k  ddns.cyruslee.top:8888
-239k  14.149.140.160:16888
+1057k  113.110.77.230:8188
+953k  113.101.245.202:9988
+937k  14.149.140.160:16888
+935k  14.149.140.153:16888
+162k  openwrt.cyruslee.top:8888
+129k  home.l-ht.cn:4000
