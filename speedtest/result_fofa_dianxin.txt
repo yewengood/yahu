@@ -1,8 +1,8 @@
-1089k  14.149.140.213:16888
-1074k  113.101.245.202:9988
-1073k  14.149.140.155:16888
-1059k  113.110.77.79:8188
-296k  ddns.cyruslee.top:8888
-198k  dsm.cyruslee.top:8888
-192k  plex.cyruslee.top:8888
-140k  file.cyruslee.top:8888
+1089k  14.149.140.155:16888
+1074k  113.110.77.79:8188
+1066k  113.101.245.202:9988
+1060k  14.149.140.213:16888
+321k  ddns.cyruslee.top:8888
+145k  home.l-ht.cn:4000
+113k  unraid.cyruslee.top:8888
+107k  jellyfin.cyruslee.top:8888
