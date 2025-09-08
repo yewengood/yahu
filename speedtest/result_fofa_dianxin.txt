@@ -1,10 +1,8 @@
-985k  113.101.245.202:9988
-912k  14.149.140.155:16888
-900k  14.149.140.213:16888
-626k  113.110.77.114:8188
-249k  dsm.cyruslee.top:8888
-162k  unraid.cyruslee.top:8888
-158k  file.cyruslee.top:8888
-149k  plex.cyruslee.top:8888
+1002k  113.101.245.202:9988
+970k  14.149.140.213:16888
+927k  14.149.140.155:16888
+825k  113.110.77.114:8188
+244k  ddns.cyruslee.top:8888
+148k  unraid.cyruslee.top:8888
 146k  openwrt.cyruslee.top:8888
-97k  jellyfin.cyruslee.top:8888
+110k  plex.cyruslee.top:8888
